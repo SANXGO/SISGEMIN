@@ -1,0 +1,14 @@
+{
+    "name": "usuario/pequiven",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Alejandro",
+            "email": "alejandrososa2198@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "phpmailer/phpmailer": "^6.10"
+    }
+}
